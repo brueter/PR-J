@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./images/light.svg">
-  <img alt="sammich" src="./images/dark.svg">
-</picture>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/dark.svg" | width=300>
+        <source media="(prefers-color-scheme: light)" srcset="./images/light.svg" | width=300>
+        <img alt="sammich" src="./images/dark.svg">
+    </picture>
+</p>
 
 ## PR and what now?
 PR&J is the second name of this project after realizing two things
