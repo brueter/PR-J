@@ -55,7 +55,7 @@ Here's what we've got so far :)
 - Electronics
     - fisheiyy
     - [whoppingpochard](https://github.com/tanaes)
-    - de-test#9499
+    - [calithameridi](http://github.com/calithameridi/)
 - Hardware
     - [whoppingpochard](https://github.com/tanaes)
     - [bwnance](https://github.com/bwnance)
