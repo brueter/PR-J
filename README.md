@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./images/light.svg">
-  <img alt="sammich" src="./images/dark.svg">
-</picture>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/dark.svg" | width=300>
+        <source media="(prefers-color-scheme: light)" srcset="./images/light.svg" | width=300>
+        <img alt="sammich" src="./images/dark.svg">
+    </picture>
+</p>
 
 <picture>
   <source srcset="./images/boards.png">
@@ -50,8 +52,8 @@ Updates will be regularly made in the discord channel, feel free to reach out to
 ## Credits
 - Electronics
     - fisheiyy
-    - whoppingpochard
+    - [whoppingpochard](https://github.com/tanaes)
     - de-test#9499
 - Hardware
-    - whoppingpochard
-    - bwnance
+    - [whoppingpochard](https://github.com/tanaes)
+    - [bwnance](https://github.com/bwnance)
