@@ -51,7 +51,7 @@ Here's what we've got so far :)
   <img alt="sammich" src="./images/boards.png">
 </picture>
 
-## Credits
+## Helpers
 - Electronics
     - fisheiyy
     - [whoppingpochard](https://github.com/tanaes)
