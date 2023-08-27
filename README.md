@@ -35,17 +35,17 @@ Some "theoreticals" that will need extensive testing but may be possible:
 
 ## Sign me up!
 Actually I'd love to!
-Right now we're starting a small beta test group for main boards and two strain gauges. These haven't been adapted to any toolhead yet so initial testing likely will not involve much printing, but getting as much data as possible to characterize how these strain gauges behave will let our crazy ideas become a reality.
+We're in the process of establishing a small beta test group for main boards and two types of strain gauges. The initial testing phase likely won't involve much printing, focusing instead on gathering data to study the behavior of these strain gauges, as well as test consistency.
+As we develop more, the strain gauges we currently have may be adapted to some toolheads, so it's likely that new hardware won't even have to be sent for real world testing.
 We're also looking for people that may have experience with any of the following for helping with development of the project itself.
-- Programmers especially familiar with klipper
+- Skilled programmers, especially those familiar with klipper
 - Electronics engineers
 - CAD experts
-If you'd like to help at all, current discussions are in the [Armchair Engineering discord server](https://discord.gg/armchairengineeringsux) in [this](https://discord.com/channels/1029426383614648421/1141480604844703745) channel.
+If you're interested in contributing, ongoing discussions are hosted on the [Armchair Engineering discord server](https://discord.gg/armchairengineeringsux) in [this specific channel](https://discord.com/channels/1029426383614648421/1141480604844703745).
 
 ## What now?
-As of making this repository parts are on the way and boards are almost ready to be ordered.
-The first wave of test boards will only include about 10 main boards, as well as 20 strain gauges (10 of each design).
-Updates will be regularly made in the discord channel, feel free to reach out to me there or via [my discord](https://discord.com/users/96435324275658752) with any questions.
+As of the repository's creation, parts are on the way, and the board ordering process is nearly finalized. The initial batch of test boards will comprise approximately 10 main boards and 20 strain gauges (10 of each design).
+Regular updates will be posted in the Armchair engineering project thread. Feel free to reach out to me there or through [my discord](https://discord.com/users/96435324275658752) if you have any questions.
 
 Here's what we've got so far :)
 
