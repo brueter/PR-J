@@ -4,6 +4,11 @@
   <img alt="sammich" src="./images/dark.svg">
 </picture>
 
+<picture>
+  <source srcset="./images/boards.png">
+  <img alt="sammich" src="./images/boards.png">
+</picture>
+
 ## PR and what now?
 PR&J is the second name of this project after realizing two things
 - I'd like to be able to put this on a resume
