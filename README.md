@@ -1,3 +1,4 @@
+![sammich](./images/banner.png)
 # Welcome to PR&J
 PR&J is a open source, open standard combination of a universal borad for amplifying and processing strain gauge signals, and an open standard for creating strain gauges for a variety of toolheads
 
