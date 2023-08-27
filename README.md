@@ -47,8 +47,8 @@ Updates will be regularly made in the discord channel, feel free to reach out to
 ## Credits
 - Electronics
     - fisheiyy
-    - whoppingpochard
+    - [whoppingpochard](https://github.com/tanaes)
     - de-test#9499
 - Hardware
-    - whoppingpochard
-    - bwnance
+    - [whoppingpochard](https://github.com/tanaes)
+    - [bwnance](https://github.com/bwnance)
