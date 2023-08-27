@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./images/light.png">
-  <img alt="sammich" src="./images/dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./images/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./images/light.svg">
+  <img alt="sammich" src="./images/dark.svg">
 </picture>
 
 ## PR and what now?
