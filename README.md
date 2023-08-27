@@ -6,11 +6,6 @@
     </picture>
 </p>
 
-<picture>
-  <source srcset="./images/boards.png">
-  <img alt="sammich" src="./images/boards.png">
-</picture>
-
 ## PR and what now?
 PR&J is the second name of this project after realizing two things
 - I'd like to be able to put this on a resume
@@ -48,6 +43,13 @@ If you'd like to help at all, current discussions are in the [Armchair Engineeri
 ## What now?
 As of making this repository parts are on the way and boards are almost ready to be ordered, and testers are being selected, the first wave of test boards will only include about 10 main boards, as well as 20 strain gauges (10 of each design)
 Updates will be regularly made in the discord channel, feel free to reach out to me there or via [my discord](https://discord.com/users/96435324275658752)
+
+Here's what we've got so far :)
+
+<picture>
+  <source srcset="./images/boards.png">
+  <img alt="sammich" src="./images/boards.png">
+</picture>
 
 ## Credits
 - Electronics
