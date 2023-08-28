@@ -10,9 +10,9 @@
 PR&J is the second name of this project after realizing two things:
 - I'd like to be able to put this on a resume.
 - Realizing the main features are as follows:
-	- Probing
-    - Jam detection
-    - & Runout detection
+    - Probing
+    - Runout detection
+    - & Jam detection
 > This board also is sandwiched between the hotend and extruder, thus a PR&J.
 
 ## How does a load cell do all that?
