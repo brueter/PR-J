@@ -28,6 +28,7 @@ We're still workshopping ideas that could come from this one feature, but some w
 - Detecting skipped steps
 - One-click pressure advance tuning
 - One-click max flow rate calculation
+
 Some "theoreticals" that will need extensive testing but may be possible:
 - Spaghetti detection
 - Crash detection
