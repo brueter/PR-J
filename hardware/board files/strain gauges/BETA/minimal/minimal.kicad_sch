@@ -498,7 +498,7 @@
     )
     (pin "1" (uuid a3a31baa-e82b-4826-b18c-1409e3829c26))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "#PWR02") (unit 1)
         )
@@ -524,7 +524,7 @@
     (pin "1" (uuid fe322e62-7f25-463e-8d27-84f5fabab01f))
     (pin "2" (uuid 1529bb94-a3fc-4bfa-9938-c90201642732))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "R1") (unit 1)
         )
@@ -553,7 +553,7 @@
     (pin "4" (uuid 079caade-07be-4899-b9de-a309bc4c22cd))
     (pin "5" (uuid 1b3ec7aa-d241-4f67-84a4-77837e05707c))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "U1") (unit 1)
         )
@@ -579,7 +579,7 @@
     (pin "1" (uuid 16b9b2ce-9f71-471b-a54b-11905fd6f444))
     (pin "2" (uuid 59ca20da-f820-49a3-89bf-9a7b3ddc8ed8))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "R2") (unit 1)
         )
@@ -607,7 +607,7 @@
     (pin "3" (uuid f6d1f703-609c-4844-b526-8e3c70f72cd7))
     (pin "4" (uuid 95e9d307-d26e-4415-866c-2fb5328fb8f5))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "J1") (unit 1)
         )
@@ -633,7 +633,7 @@
     (pin "1" (uuid c7469962-8b63-4c92-9e56-4f2a42647be9))
     (pin "2" (uuid 7c9721ed-5362-4dc7-9dd4-dfff7f8e8bb2))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "R4") (unit 1)
         )
@@ -658,7 +658,7 @@
     )
     (pin "1" (uuid 2b8234cb-e8bf-4198-88e3-61027736708e))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "#PWR01") (unit 1)
         )
@@ -675,7 +675,7 @@
     (property "Value" "MountingHole_Pad" (at 138.43 40.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.7mm_Pad_Via" (at 134.62 38.735 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (at 134.62 38.735 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 134.62 38.735 0)
@@ -683,7 +683,7 @@
     )
     (pin "1" (uuid e4f742bd-d184-4357-89df-d9086341762f))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "H3") (unit 1)
         )
@@ -709,7 +709,7 @@
     (pin "1" (uuid 7309cfcc-fbb9-4f56-9062-f76a3cceec03))
     (pin "2" (uuid 4cd0f53f-d22c-40de-b9f3-d917a6c481e9))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "R3") (unit 1)
         )
@@ -734,7 +734,7 @@
     )
     (pin "1" (uuid a642ef75-0263-4021-8621-5c4f7b3ad5dc))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "#PWR05") (unit 1)
         )
@@ -759,7 +759,7 @@
     )
     (pin "1" (uuid ea1ad310-3890-4a55-aca3-7b2b7bc20d48))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "#PWR06") (unit 1)
         )
@@ -776,7 +776,7 @@
     (property "Value" "MountingHole_Pad" (at 138.43 34.925 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.7mm_Pad_Via" (at 134.62 33.655 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (at 134.62 33.655 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 134.62 33.655 0)
@@ -784,7 +784,7 @@
     )
     (pin "1" (uuid 386dc81e-7e47-4fd8-b7b9-637bee8a5c47))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "H2") (unit 1)
         )
@@ -801,7 +801,7 @@
     (property "Value" "MountingHole_Pad" (at 138.43 29.845 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.7mm_Pad_Via" (at 134.62 28.575 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (at 134.62 28.575 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 134.62 28.575 0)
@@ -809,7 +809,7 @@
     )
     (pin "1" (uuid 8cffdd88-2627-4b44-9f61-d2840c26893f))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "H1") (unit 1)
         )
@@ -834,7 +834,7 @@
     )
     (pin "1" (uuid f4a35223-80e0-437d-860b-297e3933dc49))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "#PWR04") (unit 1)
         )
@@ -859,7 +859,7 @@
     )
     (pin "1" (uuid 333a884e-5bfb-466b-95f0-6495362125d9))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "#PWR03") (unit 1)
         )
@@ -876,7 +876,7 @@
     (property "Value" "MountingHole_Pad" (at 138.43 45.085 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.7mm_Pad_Via" (at 134.62 43.815 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (at 134.62 43.815 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 134.62 43.815 0)
@@ -884,7 +884,7 @@
     )
     (pin "1" (uuid b638b935-9ec2-4468-be4b-1646822f012b))
     (instances
-      (project "strain gauge"
+      (project "minimal"
         (path "/4d674406-2df3-43ef-8583-5662efadc380"
           (reference "H4") (unit 1)
         )

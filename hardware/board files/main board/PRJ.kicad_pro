@@ -417,7 +417,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "loaddeez.kicad_pro",
+    "filename": "PRJ.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -453,7 +453,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "PRJ.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
