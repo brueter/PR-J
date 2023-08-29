@@ -58,8 +58,10 @@ Here's what we've got so far :)
 ## Helpers
 - Electronics
     - fisheiyy
-    - [whoppingpochard](https://github.com/tanaes)
+    - [tanaes](https://github.com/tanaes)
     - [calithameridi](http://github.com/calithameridi/)
 - Hardware
-    - [whoppingpochard](https://github.com/tanaes)
+    - [tanaes](https://github.com/tanaes)
     - [bwnance](https://github.com/bwnance)
+- Software
+    - [detunedcalliope](https://github.com/detunedcalliope)
