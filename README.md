@@ -57,7 +57,7 @@ Here's what we've got so far :)
 
 ## Helpers
 - Electronics
-    - fisheiyy
+    - [fisheiyy](https://github.com/fisheiyy)
     - [tanaes](https://github.com/tanaes)
     - [calithameridi](http://github.com/calithameridi/)
 - Hardware
