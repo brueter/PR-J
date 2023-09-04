@@ -14,6 +14,7 @@ PR&J is the second name of this project after realizing two things:
     - Runout detection
     - & Jam detection
 > This board also is sandwiched between the hotend and extruder, thus a PR&J.
+
 > If you'd like to know the first name of the board scroll up a bit in the discord
 
 ## How does a load cell do all that?
