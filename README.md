@@ -67,3 +67,9 @@ Here's what we've got so far :)
     - [bwnance](https://github.com/bwnance)
 - Software
     - [detunedcalliope](https://github.com/detunedcalliope)
+
+## Legal
+
+ALL SOFTWARE AND HARDWARE IS LICENSED WITH CC-BY-NC-SA-4.0
+
+FOR COMMERCIAL RIGHTS CONTACT AT brueter918@gmail.com
