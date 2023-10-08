@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+R1,1k,R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,10.5,-10.5,135.0,top
+R2,1k,R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,-10.656676,-10.656676,135.0,bottom
+R3,1k,R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,-10.656676,10.656676,135.0,top
+R4,1k,R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,10.656676,10.656676,135.0,bottom

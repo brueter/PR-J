@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+R1,1k,R_2512_6332Metric,12.0,-22.15,90.0,top
+R2,1k,R_2512_6332Metric,12.0,-22.15,90.0,bottom
+R3,1k,R_2512_6332Metric,12.0,-6.15,90.0,top
+R4,1k,R_2512_6332Metric,12.0,-6.15,90.0,bottom

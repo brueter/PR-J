@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0u1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,108.0,-92.0,180.0,top
+C2,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,108.0,-94.25,180.0,top
+C3,0u1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,108.0,-89.0,0.0,top
+C4,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,119.8,-92.0375,90.0,top
+C5,0u1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,123.0,-98.0,90.0,top
+C6,0u1,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,114.0,-111.5,0.0,top
+C7,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,107.0,-101.75,90.0,top
+C8,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,107.0,-105.75,-90.0,top
+C9,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,119.4,-100.8,90.0,top
+D1,B1701NB,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,116.75,-105.75,-90.0,top
+J1,Strain Gauge,PinSocket_1x04_P2.54mm_Vertical,130.975,-95.38,0.0,top
+J2,Programmer,PinSocket_1x02_P2.54mm_Vertical,123.5,-113.25,90.0,top
+J3,KLIPPER,PinSocket_1x04_P2.54mm_Vertical,131.0,-107.76,0.0,top
+R1,33K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,108.0,-96.5,0.0,top
+R2,12K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,108.0,-98.75,180.0,top
+R3,100,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,126.0,-96.75,180.0,top
+R4,100,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,126.0,-99.25,180.0,top
+R9,4k7,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,125.8,-109.2,-90.0,top
+R10,100,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,119.0,-105.75,-90.0,top
+U1,HX717,SOP-16_3.9x9.9mm_P1.27mm,114.25,-95.0,270.0,top
+U2,ATtiny202-SS,SOIC-8_3.9x4.9mm_P1.27mm,125.275,-104.155,270.0,top
+U3,AMS1117-3.3,SOT-223-3_TabPin2,112.0,-104.75,90.0,top

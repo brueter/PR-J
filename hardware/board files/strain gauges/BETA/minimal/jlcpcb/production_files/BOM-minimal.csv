@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+PR&J,J1,PinSocket_1x04_P2.54mm_Vertical,
+1k,R3,R_2512_6332Metric,
+MountingHole_Pad,H1,MountingHole_3.2mm_M3_Pad_Via,
+~,U1,hotend mounting holes,
+MountingHole_Pad,H2,MountingHole_3.2mm_M3_Pad_Via,
+1k,R1,R_2512_6332Metric,
+MountingHole_Pad,H3,MountingHole_3.2mm_M3_Pad_Via,
+MountingHole_Pad,H4,MountingHole_3.2mm_M3_Pad_Via,
+1k,R2,R_2512_6332Metric,
+1k,R4,R_2512_6332Metric,
